@@ -1,0 +1,12 @@
+.App{
+    width: 100%;
+    background-color: #f3f2ef;
+    display: flex;
+    flex-direction: column;
+}
+.app_body{
+    max-width: 100%;
+    padding: 0 10%;
+    display: flex;
+    /* margin: 10px 8rem; */
+}
